@@ -5,8 +5,6 @@ This git repo will be how we share the data, notebooks, and latex files for the 
 
 Please clone the repo to your local laptop
 
-.. code-block:: bash
-
     $ git clone https://github.com/swagnercarena/ptsa_2023.git
 
 As new documents are pushed to the repo, you can get them on your local machine using the `git pull` command.
